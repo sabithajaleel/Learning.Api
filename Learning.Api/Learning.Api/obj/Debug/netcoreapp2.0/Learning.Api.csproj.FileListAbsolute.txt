@@ -1,0 +1,11 @@
+D:\Projects\Learning Project\Learning API\Learning.Api\Learning.Api\bin\Debug\netcoreapp2.0\Learning.Api.deps.json
+D:\Projects\Learning Project\Learning API\Learning.Api\Learning.Api\bin\Debug\netcoreapp2.0\Learning.Api.runtimeconfig.json
+D:\Projects\Learning Project\Learning API\Learning.Api\Learning.Api\bin\Debug\netcoreapp2.0\Learning.Api.runtimeconfig.dev.json
+D:\Projects\Learning Project\Learning API\Learning.Api\Learning.Api\bin\Debug\netcoreapp2.0\Learning.Api.dll
+D:\Projects\Learning Project\Learning API\Learning.Api\Learning.Api\obj\Debug\netcoreapp2.0\Learning.Api.csprojResolveAssemblyReference.cache
+D:\Projects\Learning Project\Learning API\Learning.Api\Learning.Api\obj\Debug\netcoreapp2.0\Learning.Api.csproj.CoreCompileInputs.cache
+D:\Projects\Learning Project\Learning API\Learning.Api\Learning.Api\obj\Debug\netcoreapp2.0\Learning.Api.AssemblyInfoInputs.cache
+D:\Projects\Learning Project\Learning API\Learning.Api\Learning.Api\obj\Debug\netcoreapp2.0\Learning.Api.AssemblyInfo.cs
+D:\Projects\Learning Project\Learning API\Learning.Api\Learning.Api\bin\Debug\netcoreapp2.0\Learning.Api.pdb
+D:\Projects\Learning Project\Learning API\Learning.Api\Learning.Api\obj\Debug\netcoreapp2.0\Learning.Api.dll
+D:\Projects\Learning Project\Learning API\Learning.Api\Learning.Api\obj\Debug\netcoreapp2.0\Learning.Api.pdb
